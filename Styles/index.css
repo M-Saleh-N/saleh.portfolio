@@ -41,6 +41,8 @@ body {
 .logo ul li a {
   color: #fff;
   text-decoration: none;
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
 }
 
 
