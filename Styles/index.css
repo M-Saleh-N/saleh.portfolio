@@ -72,6 +72,13 @@ body {
 
 }
 
+.profile .intro {
+  font-size: 18px;
+  font-family: 'Manrope', sans-serif;
+  font-weight: 400px;
+  line-height: 27px;
+  color: #C7C7C7;
+}
 
 
 .projcard1 {
