@@ -80,6 +80,13 @@ body {
   color: #C7C7C7;
 }
 
+img {
+  width: 500px; 
+  height: auto; 
+  object-fit: contain; 
+  border-radius: 10px; 
+  float: right;                                                       
+}
 
 .projcard1 {
   display: flex;
