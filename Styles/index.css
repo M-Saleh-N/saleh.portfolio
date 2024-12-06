@@ -85,7 +85,9 @@ img {
   height: auto; 
   object-fit: contain; 
   border-radius: 10px; 
-  float: right;                                                       
+  float: right; 
+  position: relative;
+  right: 0px;                                                      
 }
 
 .projcard1 {
