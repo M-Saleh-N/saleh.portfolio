@@ -91,10 +91,15 @@ body {
   top: 90px;  
                                                
 }
+.imgme{
+  position: relative;
+  top: -540px;
+  left: -90px;
+}
 .button {
-  margin: 20px;
-  padding-top: 45px;
-  padding-left: 65px;
+  position: relative;
+  left: 110px;
+  top: -50px;
 }
 
 .contact-me {
@@ -110,6 +115,7 @@ body {
 
 
 
+
 .projcard1 {
   display: flex;
   background-color: #1a1a1a;
@@ -120,4 +126,10 @@ body {
   border-radius: 20px;
   gap: 20px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+}
+
+.projectsarea p{
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-size: 76px;
 }
