@@ -61,6 +61,17 @@ body {
   max-width: 544px;
 }
 
+.profile .name {
+  font-size: 101px;
+  font-family: 'Bebas Neue', sans-serif;
+  color: #ffffff;
+  font-weight: 400px;
+  width: 544px;
+  line-height: 90.9px;
+
+}
+
+
 
 .projcard1 {
   display: flex;
