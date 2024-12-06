@@ -2,47 +2,56 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Manrope:wght@200..800&display=swap');
 
-
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-    background-color: #0A0A0A;    
-    color: #C7C7C7; 
+  background-color: #0a0a0a;
+  color: #c7c7c7;
 }
 
 .navbar {
-    width: 1000px;
-    height: 96px;
-    display: flex;
-}               
-
-.logo{
-    display: flex;
-}
-.logo h2{
-    font-family: "Bebas Neue", sans-serif;
-    font-weight: 400;
-    font-size: 32px;
-    line-height: 48px;
-    
+  width: 1000px;
+  height: 96px;
+  display: flex;
 }
 
-.logo ul{
-    display: flex;
-    text-decoration: none;
-    list-style: none;
-    gap: 7px;    
+.logo {
+  display: flex;
+  gap: 900px;
 }
 
-.logo ul li a{
-    color: #fff;
-    text-decoration: none;
+.logo h2 {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 48px;
+}
 
+.logo ul {
+  display: flex;
+  text-decoration: none;
+  list-style: none;
+  gap: 7px;
+}
+
+.logo ul li a {
+  color: #fff;
+  text-decoration: none;
 }
 
 
-
+.projcard1 {
+  display: flex;
+  background-color: #1a1a1a;
+  color: #fff;
+  width: 700px;
+  height: 400px;
+  padding: 40px;
+  border-radius: 20px;
+  gap: 20px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+}
