@@ -56,6 +56,12 @@ body {
   height: 500px;
 }
 
+.profile{
+  flex: 1;
+  max-width: 544px;
+}
+
+
 .projcard1 {
   display: flex;
   background-color: #1a1a1a;
