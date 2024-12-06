@@ -15,15 +15,14 @@ body {
 }
 
 .navbar {
-    position: relative;
-    width: 100%;
+    width: 1000px;
     height: 96px;
-    padding: 24px 60px;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
+}               
 
+.logo{
+    display: flex;
+}
 .logo h2{
     font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
@@ -37,6 +36,12 @@ body {
     text-decoration: none;
     list-style: none;
     gap: 7px;    
+}
+
+.logo ul li a{
+    color: #fff;
+    text-decoration: none;
+
 }
 
 
