@@ -322,14 +322,12 @@ body {
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
 }
 
-.hr1 {
-  color: #484848;
-  border: 1px solid;
-  width: 100%;
+.hr2{
   position: relative;
-  top: -280px;
-}
+  top: 10px;
+  width: 100vw;
 
+}
 .projectsarea p {
   font-family: "Bebas Neue", sans-serif;
   font-weight: 400;
@@ -337,27 +335,27 @@ body {
   position: relative;
   left: 105px;
   color: #fff;
-  top: -200px;
+  top: -110px;
 }
 
-.projectsarea .p2 {
+.projectsarea p2 {
   font-family: "Manrope", sans-serif;
   font-weight: 400;
   font-size: 18px;
   position: relative;
   left: 105px;
   color: #fff;
-  top: -200px;
+  top: -100px;
 }
 
-.projectsarea .p3 {
+.projectsarea p3 {
   font-family: "Manrope", sans-serif;
   font-weight: 400;
   font-size: 18px;
   position: relative;
   left: 105px;
   color: #fff;
-  top: -200px;
+  top: -100px;
 }
 
 .cont1 {
