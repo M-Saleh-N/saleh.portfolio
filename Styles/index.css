@@ -140,3 +140,14 @@ body {
   max-width: 544px;
 }
 
+.text1 {
+   font-size: 50px;
+   font-family: 'Bebas Neue', sans-serif;
+   color: #ffffff;
+   font-weight: 400px;
+   height: 90px;
+   line-height: 5px;
+   letter-spacing: 2px;
+   position: relative;
+}
+
