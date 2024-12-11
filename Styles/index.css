@@ -164,4 +164,12 @@ body {
   top: -50px;
   left: -20px;
 }
+
+.cont1 {
+  width: 1200px;  
+  height: 800px;  
+  display: flex;
+  margin-left: 110px;
+  margin-top: 30px;
+  }
   
