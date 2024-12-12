@@ -760,6 +760,14 @@ ul {
   margin: 0;
   padding: 0;
 }
+ul li {
+  margin: 0 10px;
+}
+
+ul li a {
+  text-decoration: none;
+  color: #fff;
+}
 
 
 @media screen and (max-width: 720px), (max-height: 1280 ) { 
