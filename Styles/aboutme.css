@@ -245,11 +245,11 @@ body .navbar h2 {
     bottom: 200px;
   }
 
-  .cont4 {
-    width: 100%;
-    max-width: 1224px;
-    height: 533px;
-    box-sizing: border-box;
-    margin: 0 auto;
-    overflow-x: hidden;
+  .p-5 {
+    font-family: "Manrope", sans-serif;
+    font-weight: 500;
+    position: relative;
+    left: 645px;
+    color: #fff;
+    font-size: 18px;
   }
