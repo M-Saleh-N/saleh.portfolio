@@ -28,3 +28,11 @@ body .navbar h2 {
     line-height: 48px;
     letter-spacing: -1;
   }
+
+  body .logo {
+    display: flex;
+    gap: 32px;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+  }
