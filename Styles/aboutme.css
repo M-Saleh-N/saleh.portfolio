@@ -262,3 +262,11 @@ body .navbar h2 {
     font-family: "Manrope", sans-serif;
     top: -44px;
   }
+
+  .p-7 {
+    font-weight: 600;
+    font-family: "Manrope", sans-serif;
+    position: relative;
+    left: 645px;
+    font-size: 18px;
+  }
