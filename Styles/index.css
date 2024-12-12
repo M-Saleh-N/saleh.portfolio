@@ -473,3 +473,27 @@ body {
 .info {
   margin-top: 10px;
 }
+
+.info-row {
+  display: flex;
+  font-family: 'Manrope', sans-serif;
+  align-items: center;
+  margin-bottom: 10px;
+  justify-content: space-between;
+}
+
+.info1, .info3 {
+  font-size: 16px;
+  text-align: left;
+  color: #FFFFFF;
+  font-weight: 400;
+  line-height: 25.6px;
+}
+
+.info2, .info4 {
+  text-align: right;
+  font-weight: 400;
+  color: #FFFFFF;
+  font-size: 16px;
+}
+
