@@ -500,7 +500,7 @@ input[type="text"] {
     }
     .footer{
       position: relative;
-      top: 200px;
+      top: -900px;
     }
 
 }
