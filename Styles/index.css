@@ -357,3 +357,9 @@ body {
   font-family: 'Manrope', sans-serif;
   margin-bottom: 10px;
 }
+
+.info1, .info5{
+  color: #FFFFFF;
+  font-weight: 400;
+  font-size: 16px;
+}
