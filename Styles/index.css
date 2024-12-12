@@ -882,4 +882,9 @@ ul li a {
     position: relative;
     left: -10px;
   }
+  .contact-form{
+    position: relative;
+    left: 70px;
+    top: -100px;
+  }
 }
