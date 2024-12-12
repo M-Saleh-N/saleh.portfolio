@@ -768,7 +768,10 @@ ul li a {
   text-decoration: none;
   color: #fff;
 }
-
+.span {
+  display: none; 
+  cursor: pointer;
+}
 
 @media screen and (max-width: 720px), (max-height: 1280 ) { 
     
