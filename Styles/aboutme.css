@@ -20,4 +20,11 @@ body .navbar h2 {
     width: 1440px;
     height: 96px;
     border-bottom: 1px;
+    margin: 0;
+    position: relative;
+    right: -50px;
+    top: 20px;
+    justify-content: space-between;
+    line-height: 48px;
+    letter-spacing: -1;
   }
