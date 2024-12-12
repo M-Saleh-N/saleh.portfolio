@@ -408,3 +408,16 @@ input[type="text"] {
   resize: vertical;
   background-color: #1a1a1a;
 }
+
+.btn {
+  background-color: #d3e97a;
+  color: #0a0a0a;
+  font-family: 'manrope', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  height: 48px;
+  width: 140px;
+  border-radius: 100px;
+  border: none;
+  padding: 20, 40px;
+}
