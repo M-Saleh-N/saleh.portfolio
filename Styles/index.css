@@ -217,3 +217,12 @@ body {
       font-weight: 400;
       text-align: right;
     }
+
+    .cardtext h3 {
+      font-size: 16px;
+      font-family: 'Manrope', sans-serif;
+      font-weight: 600;
+      margin-bottom: 10px;
+      line-height: 24px;
+      text-align: right;
+    }
