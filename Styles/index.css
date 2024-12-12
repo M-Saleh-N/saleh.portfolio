@@ -745,7 +745,11 @@ input[type="text"] {
 .navbar {
   position: relative;
 }
-
+.away1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 
 @media screen and (max-width: 720px), (max-height: 1280 ) { 
     
