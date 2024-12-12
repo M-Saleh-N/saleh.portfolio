@@ -846,4 +846,12 @@ ul li a {
   .aboutinfo .text4{
     display: none;
   }
+  .about .text5{
+    position: relative;
+    left: -230px;
+    top: 300px;
+    text-align: justify;
+    white-space: nowrap;
+    font-size: 80%;
+  }
 }
