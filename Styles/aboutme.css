@@ -119,7 +119,7 @@ body .navbar h2 {
   }
   .iconlinkedin, .icongit {
     position: relative;
-    top: 10px;
+    top: 25px;
   }
   
   .iconlinkedin img, .icongit img {
