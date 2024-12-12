@@ -798,4 +798,8 @@ ul li a {
   .profile .name{
     font-size: 110px;
   }
+  .button .contact-me{
+    position: relative;
+    top: -700px;
+  }
 }
