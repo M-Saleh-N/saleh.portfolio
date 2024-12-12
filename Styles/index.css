@@ -393,3 +393,9 @@ body {
   position: relative;
   top: 20px;
 }
+
+.hr-1, .hr-2, .hr-3, .hr-4 {
+  border: 1px solid #484848;
+  margin: 10px 0;
+  width: 100%;
+}
