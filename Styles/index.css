@@ -666,3 +666,14 @@ body {
   width: 35px;
   height: 35px;
 }
+
+input[type="text"], select, textarea {
+  width: 600px;
+  height: 54px;
+  padding: 12px;
+  border-radius: 4px;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  background-color: #1a1a1a;
+}
+
