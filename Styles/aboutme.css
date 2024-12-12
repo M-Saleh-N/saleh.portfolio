@@ -430,5 +430,25 @@ input[type="text"] {
   width: 160px;
   height: 26px;
   margin-left: 65px;
-  margin-top: 330px;
+  margin-top: -350px;
+}
+
+@media screen and (max-width: 720px), (max-height: 1280 ){
+  .logo ul li a{
+    position: relative;
+    left: -500px;
+  }
+
+  .cont1 img{
+    position: relative;
+    top: 550px;
+    left: 0px;
+    width: 100vw; 
+  }
+
+  .button .contact-me{
+    position: relative;
+    top: -700px;
+  }
+  
 }
