@@ -391,3 +391,7 @@ textarea {
   resize: vertical;
   background-color: #1a1a1a;
 }
+
+input[type="text"] {
+  color: #a7a7a7;
+}
