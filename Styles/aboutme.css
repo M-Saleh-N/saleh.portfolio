@@ -146,3 +146,12 @@ body .navbar h2 {
     margin-top: 54px;
     box-sizing: border-box;
   }
+
+  .p4 {
+    color: #fff;
+    width: 464px;
+    height: 76px;
+    padding-left: 65px;
+    position: relative;
+    top: 200px;
+  }
