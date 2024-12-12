@@ -354,4 +354,6 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  font-family: 'Manrope', sans-serif;
+  margin-bottom: 10px;
 }
