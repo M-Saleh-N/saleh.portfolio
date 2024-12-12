@@ -742,12 +742,13 @@ input[type="text"] {
   margin-top: 330px;
 }
 
+.navbar {
+  position: relative;
+}
 
 
 @media screen and (max-width: 720px), (max-height: 1280 ) { 
-    *{
-      display: none;
-    }
+    
 
 
 }
