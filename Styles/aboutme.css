@@ -41,4 +41,5 @@ body .navbar h2 {
     display: flex;
     flex-direction: row;
     position: relative;
+    left: -600px;
   }
