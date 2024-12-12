@@ -682,8 +682,8 @@ body {
   font-family: "Manrope", sans-serif;
   color: #c7c7c7;
   position: relative;
-  left: 90px;
-  top: 30px;
+  left: 600px;
+  top: -270px;
 }
 
 input[type="text"],
@@ -743,3 +743,11 @@ input[type="text"] {
 }
 
 
+
+@media screen and (max-width: 720px), (max-height: 1280 ) { 
+    *{
+      display: none;
+    }
+
+
+}
