@@ -283,3 +283,11 @@ body .navbar h2 {
     font-size: 18px;
     font-weight: 400;
   }
+
+  .hr3 {
+    width: 100%;
+    border: 1px solid #484848;
+    margin-top: 350px;
+  }
+  
+  
