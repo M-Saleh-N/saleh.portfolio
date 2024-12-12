@@ -900,4 +900,8 @@ ul li a {
     left: 0;
     color: white;
   }
+  ul li {
+    margin: 15px 0;
+  }
+
 }
