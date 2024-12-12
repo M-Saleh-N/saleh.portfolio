@@ -711,6 +711,9 @@ input::placeholder {
 }
 
 .footer{
+  position: relative;
+  right: -75px;
+  margin-top: -325px;
   font-family: 'manrope', sans-serif;
   color: #c7c7c7;
   font-size: 20px;
