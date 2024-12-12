@@ -12,62 +12,43 @@
 
 body{
     background-color: black;
-}
-body .navbar {
-    padding: 20px 60px 24px 60px;
-    color: #fff;
-    display: flex;
-    flex-direction: column;
-    width: 1000px;
-    height: 96px;
-    padding: 0 20px;
+    color: #c7c7c7;
 }
 
-body .navbar h2 {
-    font-family: "Bebas Neue", sans-serif;
-    font-weight: 400;
-    font-size: 32px;
-    width: 1440px;
-    height: 96px;
-    border-bottom: 1px;
-    margin: 0;
-    position: relative;
-    right: -50px;
-    top: 20px;
-    justify-content: space-between;
-    line-height: 48px;
-    letter-spacing: -1;
-  }
+.navbar {
+  width: 1000px;
+  height: 96px;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+}
 
-  body .logo {
-    display: flex;
-    gap: 32px;
-    align-items: center;
-    list-style: none;
-    padding: 0;
-  }
+.logo {
+  display: flex;
+  gap: 850px;
+}
 
-  body .logo ul {
-    display: flex;
-    flex-direction: row;
-    position: relative;
-    left: -600px;
-  }
+.logo h2 {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  white-space: nowrap;
+}
 
-  body .logo ul li {
-    margin-right: 10px;
-    list-style: none;
-    display: flex;
-    align-items: center;
-  }
+.logo ul {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+  padding: 0;
+  margin: 0;
+}
 
-  .logo ul li a {
-    font-family: "Inter", sans-serif;
-    text-decoration: none;
-    color: #fff;
-    position: relative;
-    right: -600px;
-  }
+.logo ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+}
 
   .aboutinfo {
     width: 1200px;
