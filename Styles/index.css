@@ -120,6 +120,15 @@ body {
   font-weight: bold;
 }
 
+.iconlinkedin, .icongit {
+  position: relative;
+  top: 10px;
+}
+
+.iconlinkedin img, .icongit img {
+    width: 40px; 
+    height: 40px;
+}
 .hr1 {
   width: 100%;
   border: 1px solid #484848;
