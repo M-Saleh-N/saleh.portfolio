@@ -381,3 +381,12 @@ body {
   line-height: 24px;
   text-align: right;
 }
+
+.cont2 .view {
+  font-family: "Manrope", sans-serif;
+  text-underline-offset: 8px;
+  text-decoration-thickness: 2px;
+  color: #d3e97a;
+  position: relative;
+  top: 20px;
+}
