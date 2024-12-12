@@ -754,6 +754,14 @@ input[type="text"] {
   margin: 0;
 }
 
+ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+
 @media screen and (max-width: 720px), (max-height: 1280 ) { 
     
 
