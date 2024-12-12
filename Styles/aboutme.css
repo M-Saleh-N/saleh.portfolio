@@ -111,3 +111,8 @@ body .navbar h2 {
     border: none;
     transition: transform 0.2s;
   }
+
+  .contact-me:hover {
+    text-decoration: none;
+    transform: scale(1.2);
+  }
