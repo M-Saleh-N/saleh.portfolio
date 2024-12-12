@@ -699,3 +699,13 @@ input::placeholder {
   font-family: 'manrope' sans-serif;
   font-size: 16px;
 }
+
+.form-info {
+  width: 600px;
+  height: 611px;
+  font-family: "Manrope", sans-serif;
+  color: #c7c7c7;
+  position: relative;
+  right: -700px;
+  top: -225px;
+}
