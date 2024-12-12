@@ -464,3 +464,7 @@ body {
   font-weight: 600;
   text-align: left;
 }
+.hr-1, .hr-2, .hr-3 {
+  width: 100%;
+  margin: 10px 0;
+}
