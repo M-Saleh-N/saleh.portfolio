@@ -174,3 +174,13 @@ body .navbar h2 {
     left: 700px;
     top: -120px;
   }
+
+  .skill-item {
+    background-color: none;
+    color: #f5f5f5;
+    position: relative;
+    top: 20px;
+    right: 60px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease;
+  }
