@@ -802,4 +802,8 @@ ul li a {
     position: relative;
     top: -700px;
   }
+  .button .iconlinkedin, .icongit{
+    position: relative;
+    top: -690px;
+  }
 }
