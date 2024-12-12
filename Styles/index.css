@@ -887,4 +887,8 @@ ul li a {
     left: 70px;
     top: -100px;
   }
+  .footer{
+    position: relative;
+    top: 200px;
+  }
 }
