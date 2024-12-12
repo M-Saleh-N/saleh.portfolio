@@ -232,4 +232,6 @@ body .navbar h2 {
     position: relative;
     top: -150px;
     color: #c7c7c7;
+    font-size: 18px;
+    font-weight: 400;
   }
