@@ -649,3 +649,15 @@ body {
   text-underline-offset: 5px;
   color:#FFFFFF;
 }
+
+.connect .icons{
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  gap: 24px;
+  width: 200px;
+  height: 32px;
+  margin-top: -358px;
+  position: relative;
+  left: 90px;
+}
