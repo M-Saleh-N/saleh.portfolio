@@ -843,4 +843,7 @@ ul li a {
   .aboutinfo .text3{
     display: none;
   }
+  .aboutinfo .text4{
+    display: none;
+  }
 }
