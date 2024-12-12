@@ -166,3 +166,11 @@ body .navbar h2 {
     color: #c7c7c7;
     font-family: "Manrope", sans-serif;
   }
+
+  .cont3 {
+    width: 600px;
+    height: 241px;
+    position: relative;
+    left: 700px;
+    top: -100px;
+  }
