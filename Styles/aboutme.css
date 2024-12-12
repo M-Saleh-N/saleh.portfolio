@@ -118,6 +118,10 @@ body{
       height: 30px;
   }
 
+  .iconlinkedin img:hover, .icongit img:hover{
+    transform: scale(1.2);
+  }
+
   .cont1 {
     width: 1244px;
     height: 700px;
