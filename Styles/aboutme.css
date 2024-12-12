@@ -359,4 +359,9 @@ body .navbar h2 {
   .icons img {
     width: 35px;
     height: 35px;
-  }
+    transition: transform 0.3s ease;
+}
+
+.icons img:hover {
+    transform: scale(1.2);
+}
