@@ -750,6 +750,9 @@ input[type="text"] {
   justify-content: space-between;
   align-items: center;
 }
+.logo h2 {
+  margin: 0;
+}
 
 @media screen and (max-width: 720px), (max-height: 1280 ) { 
     
