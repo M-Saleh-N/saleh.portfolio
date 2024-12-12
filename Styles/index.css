@@ -641,3 +641,10 @@ body {
   margin-top: 172px;
   font-size: 18px;
 }
+
+.ptext2 a {
+  text-decoration: underline;
+  text-decoration-color: #d3e97a;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 5px;
+}
