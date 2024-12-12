@@ -52,6 +52,7 @@ body .navbar h2 {
   }
 
   .logo ul li a {
+    font-family: "Inter", sans-serif;
     text-decoration: none;
     color: #fff;
     position: relative;
