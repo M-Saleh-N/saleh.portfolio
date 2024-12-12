@@ -434,3 +434,14 @@ body {
 .textcard {
   margin-top: 46px;
 }
+
+.textcard p1 {
+  display: block;
+  margin-bottom: 30px;
+  font-family: 'Manrope', sans-serif;
+  font-size: 18px;
+  color: #C7C7C7;
+  font-weight: 400;
+  text-align: left;
+  line-height: 27px;
+}
