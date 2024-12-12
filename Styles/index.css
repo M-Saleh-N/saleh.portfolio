@@ -197,3 +197,12 @@ body {
       margin: auto; 
     
     }
+
+    .cardtext h2 {
+      font-size: 32px;
+      font-family: 'Manrope', sans-serif;
+      font-weight: 500;
+      line-height: 44.8px;
+      margin-bottom: 10px;
+      text-align: right;
+    }
