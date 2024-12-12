@@ -430,3 +430,7 @@ body {
   border-radius: 15px;
   max-width: 100%;    
 }
+
+.textcard {
+  margin-top: 46px;
+}
