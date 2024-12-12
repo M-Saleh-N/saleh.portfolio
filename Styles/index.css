@@ -129,6 +129,10 @@ body {
     width: 30px; 
     height: 30px;
 }
+
+.iconlinkedin img:hover, .icongit img:hover{
+  transform: scale(1.2);
+}
 .hr1 {
   width: 100%;
   border: 1px solid #484848;
