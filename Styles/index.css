@@ -675,6 +675,10 @@ body {
   height: 35px;
 }
 
+.icons img:hover {
+  transform: scale(1.2);
+}
+
 .contact-form {
   width: 600px;
   height: 611px;
