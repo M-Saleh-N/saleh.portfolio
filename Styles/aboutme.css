@@ -117,3 +117,11 @@ body .navbar h2 {
     text-decoration: none;
     transform: scale(1.2);
   }
+
+  .cont1 {
+    width: 1244px;
+    height: 700px;
+    opacity: 100;
+    margin-left: 65px;
+    margin-right: auto;
+  }
