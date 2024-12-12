@@ -117,6 +117,15 @@ body .navbar h2 {
     text-decoration: none;
     transform: scale(1.2);
   }
+  .iconlinkedin, .icongit {
+    position: relative;
+    top: 10px;
+  }
+  
+  .iconlinkedin img, .icongit img {
+      width: 30px; 
+      height: 30px;
+  }
 
   .cont1 {
     width: 1244px;
@@ -450,5 +459,5 @@ input[type="text"] {
     position: relative;
     top: -700px;
   }
-  
+
 }
