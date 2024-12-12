@@ -141,4 +141,8 @@ body .navbar h2 {
     height: 400px;
     opacity: 100;
     display: flex;
+    margin-left: 65px;
+    margin-right: auto;
+    margin-top: 54px;
+    box-sizing: border-box;
   }
