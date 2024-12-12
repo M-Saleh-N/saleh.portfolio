@@ -858,4 +858,10 @@ ul li a {
     position: relative;
     top: 500px;
   }
+  .about .moreabout{
+    white-space: nowrap;
+    position: relative;
+    left: -450px;
+    top: 270px;
+  }
 }
