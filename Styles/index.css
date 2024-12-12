@@ -427,5 +427,6 @@ body {
   max-height: 100%;
   margin: auto;
   object-fit: contain;  
-  border-radius: 15px;   
+  border-radius: 15px;
+  max-width: 100%;    
 }
