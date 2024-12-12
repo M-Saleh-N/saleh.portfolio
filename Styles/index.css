@@ -864,4 +864,10 @@ ul li a {
     left: -450px;
     top: 270px;
   }
+  .hr3{
+    position: relative;
+    top: -250px;
+    width: 825px;
+  }
+
 }
