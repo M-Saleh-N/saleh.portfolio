@@ -36,3 +36,9 @@ body .navbar h2 {
     list-style: none;
     padding: 0;
   }
+
+  body .logo ul {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+  }
