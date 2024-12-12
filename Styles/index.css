@@ -678,3 +678,20 @@ body {
   top: 30px;
 }
 
+input[type="text"],
+select,
+textarea {
+  width: 600px;
+  height: 51px;
+  padding: 12px;
+  border: 1px;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  background-color: #1a1a1a;
+}
+
+
+
