@@ -399,3 +399,12 @@ body {
   margin: 10px 0;
   width: 100%;
 }
+
+.cont3 {
+  margin-left: 110px;
+  gap: 35px;
+  margin-top: -20px;
+  width: 1200px;  
+  height: 800px;  
+  display: flex;
+}
