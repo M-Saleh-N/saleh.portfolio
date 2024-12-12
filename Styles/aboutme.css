@@ -460,4 +460,47 @@ input[type="text"] {
     top: -700px;
   }
 
+  .button .iconlinkedin, .icongit{
+    position: relative;
+    top: -690px;
+  }
+
+  .cont1 img{
+    position: relative;
+    top: 550px;
+    left: 0px;
+    width: 100vw; 
+  }
+
+  .cont1{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    height: 877px;
+    align-items: center;
+    }
+
+    .connect {
+      position: relative;
+      left: 280px;
+      top: -100px;
+    }
+    .connect .ptext1{
+      position: relative;
+      left: -15px;
+    }
+    .connect .ptext2{
+      position: relative;
+      left: -10px;
+    }
+    .contact-form{
+      position: relative;
+      left: 70px;
+      top: -100px;
+    }
+    .footer{
+      position: relative;
+      top: 200px;
+    }
+
 }
