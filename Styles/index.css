@@ -206,3 +206,14 @@ body {
       margin-bottom: 10px;
       text-align: right;
     }
+
+    .cardtext p1 {
+      display: block;
+      font-size: 18px;
+      line-height: 27px;
+      color: #C7C7C7;
+      margin-bottom: 30px;
+      font-family: 'Manrope', sans-serif;
+      font-weight: 400;
+      text-align: right;
+    }
