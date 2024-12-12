@@ -543,4 +543,6 @@ body {
   width: 1200px;
   height: 600px;
   opacity: 100;
+  display: flex;
+  box-sizing: border-box;
 }
