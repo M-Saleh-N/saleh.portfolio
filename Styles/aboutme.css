@@ -306,3 +306,15 @@ body .navbar h2 {
     text-underline-offset: 8px;
     color:#FFFFFF;
   }
+
+  .ptext {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-size: 76px;
+    margin-left: 83px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    width: 464px;
+    height: 76px;
+    color: #fff;
+  }
