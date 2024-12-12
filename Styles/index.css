@@ -694,3 +694,8 @@ textarea {
   resize: none;
 }
 
+input::placeholder {
+  color:#ffffff;
+  font-family: 'manrope' sans-serif;
+  font-size: 16px;
+}
