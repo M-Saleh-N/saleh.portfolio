@@ -903,5 +903,7 @@ ul li a {
   ul li {
     margin: 15px 0;
   }
-
+  .span {
+    display: block; 
+  }
 }
