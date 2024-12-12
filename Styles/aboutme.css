@@ -365,3 +365,14 @@ body .navbar h2 {
 .icons img:hover {
     transform: scale(1.2);
 }
+
+.contact-form {
+  width: 600px;
+  height: 611px;
+  margin-top: 54px;
+  font-family: "Manrope", sans-serif;
+  color: #c7c7c7;
+  position: relative;
+  left: 600px;
+  top: -270px;
+}
