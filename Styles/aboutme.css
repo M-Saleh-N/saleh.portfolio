@@ -290,4 +290,11 @@ body .navbar h2 {
     margin-top: 350px;
   }
   
-  
+  .ptext1 {
+    margin-top: 140px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: -450px;
+    font-family: "Manrope", sans-serif;
+    color: #C7C7C7;
+  }
