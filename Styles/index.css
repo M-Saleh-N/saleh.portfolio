@@ -685,5 +685,8 @@ textarea {
   box-sizing: border-box;
   margin-top: 6px;
   margin-bottom: 16px;
+  width: 600px;
+  height: 150px; 
+  padding: 12px;
 }
 
