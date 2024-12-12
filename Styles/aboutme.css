@@ -253,3 +253,12 @@ body .navbar h2 {
     color: #fff;
     font-size: 24px;
   }
+
+  .p-6 {
+    color: #c7c7c7;
+    font-size: 18px;
+    position: relative;
+    text-align: right;
+    font-family: "Manrope", sans-serif;
+    top: -44px;
+  }
