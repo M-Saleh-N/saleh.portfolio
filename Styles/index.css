@@ -272,3 +272,18 @@ body {
   font-family: 'Manrope', sans-serif;
   margin-bottom: 10px;
 }
+
+.info1, .info3 {
+  color: #FFFFFF;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: left;
+  line-height: 25.6px;
+}
+
+.info2, .info4 {
+  color: #FFFFFF;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: right;
+}
