@@ -517,3 +517,14 @@ body {
   left: 260px;
 }
 
+.live {
+  font-family: "Manrope", sans-serif;
+  color: #d3e97a;
+  font-size: 18px;
+  font-weight: 700;
+  text-underline-offset: 8px;
+  text-decoration-thickness: 2px;
+  position: relative;
+  top: 40px;
+  padding-left: -10px;
+}
