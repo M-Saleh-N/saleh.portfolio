@@ -135,3 +135,10 @@ body .navbar h2 {
     width: 1020px;
     height: 800px;
   }
+
+  .cont2 {
+    width: 1224px;
+    height: 400px;
+    opacity: 100;
+    display: flex;
+  }
