@@ -1,9 +1,14 @@
 # saleh-portfolio
 
-Portfolio Website
+# My Portfolio 
+
 Welcome to my portfolio website! This repository contains the code for my personal portfolio, where I showcase my web development skills, projects, and achievements. The site is designed to give visitors an overview of my experience and expertise in web development.
 
-Features
+## Project Structure
+
+The project consists of the following features:
+
+## Features
 Responsive Design: The website is fully responsive, ensuring a seamless experience across all devices.
 Two HTML Files: The portfolio consists of two HTML files:
 index.html: The main landing page featuring an introduction, portfolio projects, and contact information.
