@@ -260,3 +260,15 @@ body {
   position: relative;
   top: 9px;
 }
+
+.info {
+  margin-top: 10px;
+}
+
+.info-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Manrope', sans-serif;
+  margin-bottom: 10px;
+}
