@@ -785,7 +785,10 @@ ul li a {
 }
 
 @media screen and (max-width: 720px), (max-height: 1280 ) { 
-    
+  .logo ul li a{
+    position: relative;
+    left: -500px;
+  }
 
 
 }
