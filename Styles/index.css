@@ -854,4 +854,8 @@ ul li a {
     white-space: nowrap;
     font-size: 80%;
   }
+  .hr2{
+    position: relative;
+    top: 500px;
+  }
 }
