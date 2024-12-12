@@ -789,6 +789,11 @@ ul li a {
     position: relative;
     left: -500px;
   }
-
+  .imgme img{
+    position: relative;
+    top: 550px;
+    left: 0px;
+    width: 100vw; 
+  }
 
 }
