@@ -298,6 +298,12 @@ body {
 }
 
 .cont2 .projectcard {
+  display: flex;
+  background-color: #1a1a1a;
+  color: #fff;
+  width: 500px;
+  height: 590px;
+  padding: 40px;
   border-radius: 12px;
   position: relative;
   left: -20px;
