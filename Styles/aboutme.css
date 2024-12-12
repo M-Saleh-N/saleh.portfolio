@@ -395,3 +395,16 @@ textarea {
 input[type="text"] {
   color: #a7a7a7;
 }
+
+#message {
+  width: 600px;
+  height: 156px;
+  padding: 12px;
+  border: 1px solid #1a1a1a;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  background-color: #1a1a1a;
+}
