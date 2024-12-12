@@ -196,3 +196,9 @@ body .navbar h2 {
     padding: 16px;
     justify-content: center;
   }
+
+  .skill-item:hover {
+    transform: translateY(-3px);
+    background-color: #d3e97a;
+    color: #0a0a0a;
+  }
