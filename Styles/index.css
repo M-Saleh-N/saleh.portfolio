@@ -906,4 +906,7 @@ ul li a {
   .span {
     display: block; 
   }
+  .navbar.open ul {
+    display: block; 
+  }
 }
