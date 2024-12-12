@@ -893,7 +893,7 @@ ul li a {
   }
   .footer{
     position: relative;
-    top: 200px;
+    bottom: -900px;
   }
   ul {
     display: none; 
