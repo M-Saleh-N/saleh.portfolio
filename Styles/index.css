@@ -612,3 +612,9 @@ body {
   text-underline-offset: 8px;
   color:#FFFFFF;
 }
+
+.connectinfo {
+  width: 1200px;
+  height: 600px;
+  opacity: 100;
+}
