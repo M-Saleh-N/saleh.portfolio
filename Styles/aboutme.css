@@ -215,3 +215,11 @@ body .navbar h2 {
     font-weight: 500;
     margin-left: 120px;
   }
+
+  .p-2 {
+    font-family: "Manrope", sans-serif;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 650px;
+  }
