@@ -339,3 +339,9 @@ body {
   font-weight: 400;
   text-align: right;
 }
+
+.hr-1, .hr-2, .hr-3 {
+  width: 100%;
+  border: 1px solid #484848;
+  margin: 10px 0;
+}
