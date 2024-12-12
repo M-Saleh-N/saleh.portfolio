@@ -461,4 +461,6 @@ body {
   margin-bottom: 10px;
   line-height: 24px;
   font-family: 'Manrope', sans-serif;
+  font-weight: 600;
+  text-align: left;
 }
