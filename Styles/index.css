@@ -296,3 +296,9 @@ body {
   margin-top: -10px;
   gap: 35px;
 }
+
+.cont2 .projectcard {
+  border-radius: 12px;
+  position: relative;
+  left: -20px;
+}
