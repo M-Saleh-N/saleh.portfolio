@@ -874,4 +874,8 @@ ul li a {
     left: 280px;
     top: -100px;
   }
+  .connect .ptext1{
+    position: relative;
+    left: -15px;
+  }
 }
