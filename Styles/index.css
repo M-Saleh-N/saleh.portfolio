@@ -869,5 +869,9 @@ ul li a {
     top: -250px;
     width: 825px;
   }
-
+  .connect {
+    position: relative;
+    left: 280px;
+    top: -100px;
+  }
 }
