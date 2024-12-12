@@ -675,5 +675,9 @@ input[type="text"], select, textarea {
   margin-top: 6px;
   margin-bottom: 16px;
   background-color: #1a1a1a;
+  color:#fff;
+  box-sizing: border-box;
+  border: 1px;
+ 
 }
 
