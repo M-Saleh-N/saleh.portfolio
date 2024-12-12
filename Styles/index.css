@@ -666,59 +666,15 @@ body {
   width: 35px;
   height: 35px;
 }
-.form-info {
+
+.contact-form {
   width: 600px;
   height: 611px;
+  margin-top: 54px;
   font-family: "Manrope", sans-serif;
   color: #c7c7c7;
   position: relative;
-  right: -700px;
-  top: -225px;
+  left: 90px;
+  top: 30px;
 }
 
-input[type="text"], select, textarea {
-  width: 600px;
-  height: 54px;
-  padding: 12px;
-  border-radius: 4px;
-  margin-top: 6px;
-  margin-bottom: 16px;
-  background-color: #1a1a1a;
-  color:#fff;
-  box-sizing: border-box;
-  border: 1px;
-}
-
-textarea {
-  border-radius: 4px;
-  box-sizing: border-box;
-  margin-top: 6px;
-  margin-bottom: 16px;
-  width: 600px;
-  height: 150px; 
-  padding: 12px;
-  font-family: 'Manrope', sans-serif;
-  font-size: 16px;
-  background-color: #1a1a1a;
-  resize: none;
-}
-
-input::placeholder {
-  color:#ffffff;
-  font-family: 'manrope' sans-serif;
-  font-size: 16px;
-}
-
-
-.button {
-  font-weight: 700;
-  height: 48px;
-  width: 140px;
-  border-radius: 100px;
-  border: none;
-  padding: 20, 40px;
-  background-color: #d3e97a;
-  color: #0a0a0a;
-  font-family: 'manrope', sans-serif;
-  font-size: 16px;
-}
