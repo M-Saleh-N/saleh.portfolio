@@ -528,3 +528,10 @@ body {
   top: 40px;
   padding-left: -10px;
 }
+
+.hr2 {
+  border: 1px solid #484848;
+  position: relative;
+  width: 100%;
+  top: -214px;
+}
