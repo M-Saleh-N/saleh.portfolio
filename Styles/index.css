@@ -831,4 +831,13 @@ ul li a {
     position: relative;
     top: 200px;
   }
+  .about {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    height: 877px;
+    align-items: center;
+    position: relative;
+    top: 550px;
+  }
 }
