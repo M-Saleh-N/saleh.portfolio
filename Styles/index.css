@@ -806,4 +806,11 @@ ul li a {
     position: relative;
     top: -690px;
   }
+  .cont1{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    height: 877px;
+    align-items: center;
+    }
 }
