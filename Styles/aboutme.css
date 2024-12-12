@@ -202,3 +202,8 @@ body .navbar h2 {
     background-color: #d3e97a;
     color: #0a0a0a;
   }
+
+  .skill-item p {
+    margin: 0;
+    font-weight: 500;
+  }
