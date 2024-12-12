@@ -328,3 +328,9 @@ body {
   margin-bottom: 10px;
   text-align: right;
 }
+
+.textcard p1 {
+  display: block;
+  font-size: 18px;
+  line-height: 27px;
+}
