@@ -272,3 +272,12 @@ body .navbar h2 {
     color: #d3e97a;
     top: -40px;
   }
+
+  .p-8 {
+    font-family: "Manrope", sans-serif;
+    margin-left: 650px;
+    position: relative;
+    color: #c7c7c7;
+    font-size: 18px;
+    font-weight: 400;
+  }
