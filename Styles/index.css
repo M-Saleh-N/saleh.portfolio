@@ -70,11 +70,14 @@ body {
   width: 544px;
   line-height: 90.9px;
 }
+
 .hr1 {
+  border: 1px solid #484848;
   position: relative;
-  top: 250px;
   width: 100%;
+  top: -214px;
 }
+
 .profile .intro {
   font-size: 18px;
   font-family: "Manrope", sans-serif;
