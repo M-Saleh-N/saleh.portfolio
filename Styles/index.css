@@ -840,4 +840,7 @@ ul li a {
     position: relative;
     top: 550px;
   }
+  .aboutinfo .text3{
+    display: none;
+  }
 }
