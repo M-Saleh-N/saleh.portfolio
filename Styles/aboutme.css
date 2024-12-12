@@ -298,3 +298,11 @@ body .navbar h2 {
     font-family: "Manrope", sans-serif;
     color: #C7C7C7;
   }
+
+  .ptext1 a {
+    text-decoration: underline;
+    text-decoration-color: #d3e97a;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 8px;
+    color:#FFFFFF;
+  }
