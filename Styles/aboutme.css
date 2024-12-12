@@ -181,6 +181,10 @@ body .navbar h2 {
     position: relative;
     top: 20px;
     right: 60px;
+    font-family: "Manrope", sans-serif;
+    border: solid 1px #484848;
+    padding: 12px 24px;
+    border-radius: 25px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     transition: transform 0.2s ease;
   }
