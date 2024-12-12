@@ -287,3 +287,9 @@ body {
   font-size: 16px;
   text-align: right;
 }
+
+.cont2 {
+  width: 1200px;  
+  height: 800px;  
+  display: flex;
+}
