@@ -292,4 +292,7 @@ body {
   width: 1200px;  
   height: 800px;  
   display: flex;
+  margin-left: 110px;
+  margin-top: -10px;
+  gap: 35px;
 }
