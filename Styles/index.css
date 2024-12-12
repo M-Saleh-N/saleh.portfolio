@@ -595,3 +595,10 @@ body {
   border: 1px solid #484848;
   margin-top: 350px;
 }
+
+.ptext1 {
+  margin-top: 140px;
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: -465px;
+}
