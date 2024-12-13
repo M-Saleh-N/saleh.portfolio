@@ -18,7 +18,7 @@ Welcome to my personal portfolio! This website showcases my work as a front-end 
 
 - **HTML**: For structuring the content and ensuring semantic, well-organized code.
 - **CSS**: For styling the portfolio, ensuring a clean and modern look. I also focused on responsiveness to enhance user experience on all devices.
-- **Responsive Design**: I utilized CSS Flexbox, Grid, and other techniques to ensure that my portfolio looks great on desktops, tablets, and smartphones.
+- **Responsive Design**: I utilized CSS Flexbox, Grid, and other techniques to ensure that my portfolio looks great on desktops, tablets, and smartphones. media used is @720 for both pages
 
 ## 🧑‍💻 About Me
 
