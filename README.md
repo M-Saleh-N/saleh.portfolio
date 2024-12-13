@@ -2,6 +2,10 @@
 
 Welcome to my personal portfolio! This website showcases my work as a front-end developer. I am passionate about building accessible and user-friendly websites using the latest web technologies. In this portfolio, you will find details about the projects I have worked on, as well as a little bit about me and how you can connect with me.
 
+## 🔗 Sneak Peek
+
+
+
 ## 🌟 Features of the Portfolio
 
 - **Responsive Design**: Built with HTML and CSS to ensure a seamless experience across different screen sizes and devices.
