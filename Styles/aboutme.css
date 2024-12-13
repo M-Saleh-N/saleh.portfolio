@@ -603,6 +603,10 @@ ul li a {
     left: 70px;
     top: -700px;
   }
+  .footer{
+    position: relative;
+    bottom: 400px;
+  }
 
 
 
