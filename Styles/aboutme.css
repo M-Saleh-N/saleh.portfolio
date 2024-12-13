@@ -594,6 +594,10 @@ ul li a {
     position: relative;
     top: -800px;
   }
+  .connectinfo, .icons{
+    position: relative;
+    top: -700px;
+  }
 
 
 
