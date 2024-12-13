@@ -590,6 +590,10 @@ ul li a {
     text-align: left;
     width: 50%;
   }
+  .hr3{
+    position: relative;
+    top: -800px;
+  }
 
 
 
