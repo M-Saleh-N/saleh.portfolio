@@ -582,6 +582,14 @@ ul li a {
      top: -650px;
      left: 120px;
    }
+   .cont5 p.p-8{
+    position: relative;
+    top: -600px;
+    left: -530px;
+    display: inline-block;
+    text-align: left;
+    width: 50%;
+  }
 
 
 
