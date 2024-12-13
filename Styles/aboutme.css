@@ -558,5 +558,12 @@ ul li a {
     top: -700px;
     left: -435px;
   }
-
+  .cont4 p.p-4{
+    position: relative;
+    top: -680px;
+    left: -530px;
+    display: inline-block;
+    text-align: left;
+    width: 50%;
+  }
 }
