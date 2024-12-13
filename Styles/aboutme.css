@@ -527,5 +527,11 @@ ul li a {
     top: -700px;
     left: -60px
   }
+  .cont3 .text2{
+    position: relative;
+    top: -620px;
+    left: -630px;
+    width: 600px;
+  }
 
 }
