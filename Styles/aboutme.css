@@ -598,7 +598,11 @@ ul li a {
     position: relative;
     top: -700px;
   }
-
+  .contact-form{
+    position: relative;
+    left: 70px;
+    top: -700px;
+  }
 
 
 
