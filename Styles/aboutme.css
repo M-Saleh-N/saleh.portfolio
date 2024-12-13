@@ -516,5 +516,11 @@ ul li a {
     top: -580px;
     left: 330px;
   }
+  .cont1 img{
+    width: 600px;
+    height: 400px;
+    position: relative;
+    top: -300px;
+  }
 
 }
