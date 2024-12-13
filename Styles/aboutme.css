@@ -533,5 +533,11 @@ ul li a {
     left: -630px;
     width: 600px;
   }
+  .skillscont{
+    position: relative;
+    top: -600px;
+    left: -600px;
+    width: 600px;
+  }
 
 }
