@@ -490,5 +490,10 @@ ul li a {
     position: relative;
     top: -200px;
   }
+  .aboutinfo .text4{
+    position: relative;
+    top: -200px;
+    left: -30px;
+  }
 
 }
