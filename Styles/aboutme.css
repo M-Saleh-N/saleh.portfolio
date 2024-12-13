@@ -446,7 +446,9 @@ ul {
   margin: 0;
   padding: 0;
 }
-
+ul li {
+  margin: 0 10px;
+}
 @media screen and (max-width: 720px), (max-height: 1280 ){
   .logo ul li a{
     position: relative;
