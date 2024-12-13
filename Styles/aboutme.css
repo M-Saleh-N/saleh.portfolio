@@ -449,6 +449,14 @@ ul {
 ul li {
   margin: 0 10px;
 }
+ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+
+
+
 @media screen and (max-width: 720px), (max-height: 1280 ){
   .logo ul li a{
     position: relative;
