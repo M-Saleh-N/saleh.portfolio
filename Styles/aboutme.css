@@ -571,10 +571,15 @@ ul li a {
     top: -650px;
     left: 120px;
   }
+  .cont5 .p-6{
+    position: relative;
+    top: -650px;
+    left: -425px;
+    white-space: nowrap;
+  }
 
 
 
 
 
-  
 }
