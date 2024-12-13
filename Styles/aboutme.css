@@ -495,5 +495,15 @@ ul li a {
     top: -200px;
     left: -30px;
   }
+  .about .text5 {
+    position: relative;
+    top: -580px;
+    left: -460px;
+    display: inline-block;
+    font: bold;
+    max-width: 600px;
+    font-size: smaller;
+    white-space: nowrap;
+  }
 
 }
