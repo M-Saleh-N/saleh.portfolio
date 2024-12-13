@@ -553,5 +553,10 @@ ul li a {
     left: -530px;
     white-space: nowrap;
   } 
+  .cont4 .p-3{
+    position: relative;
+    top: -700px;
+    left: -435px;
+  }
 
 }
