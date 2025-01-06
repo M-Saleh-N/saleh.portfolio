@@ -49,16 +49,65 @@ body {
   font-size: 16px;
 }
 
-.menu-toggle {
+/* Initially hide the menu */
+.menu {
   display: none;
-  cursor: pointer;
-  flex-direction: column;
-  width: 30px;
+  list-style: none;
 }
 
-.menu-toggle i {
-  margin: 4px 0;
-  transition: 0.4s;
+/* Show the menu when toggled */
+.menu.show {
+  display: block;
+}
+
+/* Styling the toggle button */
+#menu-toggle {
+  cursor: pointer;
+}
+
+#menu-toggle span {
+  display: block;
+  width: 30px;
+  height: 4px;
+  background: black;
+  margin: 6px 0;
+}
+
+/* Modal styles */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0,0.4);
+  padding-top: 60px;
+}
+
+.modal-content {
+  background-color: #fefefe;
+  margin: 5% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 .away2 {
@@ -745,8 +794,22 @@ textarea {
   resize: vertical;
   background-color: #1a1a1a;
 }
+input[type="email"],
+select,
+textarea {
+  width: 600px;
+  height: 51px;
+  padding: 12px;
+  border: 1px;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  background-color: #1a1a1a;
+}
 
-input[type="text"] {
+input[type="text"], input[type="email"]{
   color: #a7a7a7;
 }
 
@@ -761,12 +824,6 @@ input[type="text"] {
   margin-bottom: 16px;
   resize: vertical;
   background-color: #1a1a1a;
-}
-
-.form-error {
-  color: red;
-  font-size: 0.8rem;
-  display: none;
 }
 
 .btn {
@@ -788,9 +845,9 @@ input[type="text"] {
   font-size: 16px;
   font-weight: 500;
   width: 160px;
-  height: 26px;
-  margin-left: 65px;
-  margin-top: -350px;
+  height: 100px;
+ margin-top: 100px;
+
 }
 
 .navbar {

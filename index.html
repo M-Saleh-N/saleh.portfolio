@@ -5,6 +5,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Saleh's portfolio</title>
+  <script src="index.js"></script>
   <link rel="stylesheet" href="Styles/index.css" />
 </head>
 
@@ -13,17 +14,12 @@
     <div class="away1">
       <div class="logo">
         <h2>SALEH NASSOR</h2>
-
-        <div class="menu-toggle" onclick="toggleMobileMenu()">
-          <i class="fa-solid fa-bars"></i>
-      </div>
-      
-        <ul>
+        <ul id="menu" class="menu">
           <li><a href="#work">Work</a></li>
           <li><a href="./aboutme.html">About</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
-        <div class="span">
+        <div class="span" id="menu-toggle" onclick="toggleMenu()">
           <span></span>
           <span></span>
           <span></span>
@@ -62,6 +58,15 @@
 
   </div>
 
+  <div id="modal" class="modal">
+    <div class="modal-content">
+        <span id="close-modal" class="close">&times;</span>
+        <h2 id="modal-title"></h2>
+        <p id="modal-description"></p>
+        <a id="modal-link" href="" target="_blank">View More</a>
+    </div>
+</div>
+
   <hr class="hr1">
 
   <div class="projects">
@@ -76,7 +81,7 @@
 
 
   <div class="cont1">
-    <div class="projectcard" onclick="openPopup(1)">
+    <div class="projectcard"  onclick="openModal('Power, Performance, Perfection: The AMG Experience', 'We used HTML for structure and CSS for styling to bring AMG to the web. The navigation bar, crafted with CSS, ensures easy exploration, while car images showcase their beauty. This blend of code and creativity reflects AMG’s performance and elegance.', 'https://m-saleh-n.github.io/week3-project/')">
       <img src="./Images/Project-Images/1.jpeg" alt="Project 1">
     </div>
     <div class="cardtext">
@@ -110,7 +115,7 @@
   </div>
 
   <div class="cont2">
-    <div class="projectcard" onclick="openPopup(2)">
+    <div class="projectcard">
       <img src="./Images/Project-Images/2.jpeg" alt="Project 2"> </a>
     </div>
 
@@ -157,7 +162,7 @@
   </div>
 
   <div class="cont3">
-    <div class="projectcard" onclick="openPopup(3)">
+    <div class="projectcard">
       <img src="./Images/Project-Images/3.jpeg" alt="Project 3">
 
     </div>
@@ -246,28 +251,23 @@
       </div>
     </div>
 
-    <div class="contact-form">
-      <form>
-        <label for="name">Name</label>
-        <input type="text" id="name" name="Name" placeholder="e.g Saleh Nassor" />
-        <div id="nameError" class="form-error">Name is required</div>
-        <br />
-        <label for="email">Email</label>
-        <input type="text" id="email" name="Email" />
-        <div id="emailError" class="form-error">Email is required</div>
-        <br />
-        <label for="subject">Subject</label>
-        <input type="text" id="subject" name="Subject" />
-        <div id="subjectError" class="form-error">Subject is required</div>
-        <br />
-        <label for="message">Message</label>
-        <input type="text1" id="message" name="Message" />
-        <div id="messageError" class="form-error">Message is required </div>
-      </form>
+    <form id="contact-form">
+      <label for="name">Name</label>
+      <input type="text" id="name" name="Name" placeholder="e.g Saleh Nassor" required />
+      <br />
+      <label for="email">Email</label>
+      <input type="email" id="email" name="Email" required />
+      <br />
+      <label for="subject">Subject</label>
+      <input type="text" id="subject" name="Subject" required />
+      <br />
+      <label for="message">Message</label>
+      <input type="text" id="message" name="Message" required />
+      <br />
       <button type="submit" class="btn">SUBMIT</button>
-    </div>
+  </form>
+   
 
-  </div>
 
   <footer>
     <div class="footer">
@@ -275,7 +275,7 @@
     </div>
   </footer>
 
-  <script src="index.js"></script>
+  
 
 
 
