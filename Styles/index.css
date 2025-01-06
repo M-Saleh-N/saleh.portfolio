@@ -763,6 +763,12 @@ input[type="text"] {
   background-color: #1a1a1a;
 }
 
+.form-error {
+  color: red;
+  font-size: 0.8rem;
+  display: none;
+}
+
 .btn {
   background-color: #d3e97a;
   color: #0a0a0a;
