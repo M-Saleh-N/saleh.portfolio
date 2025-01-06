@@ -897,6 +897,79 @@ ul li a {
   transition: 0.3s;
 }
 
+/* By default, hide the mobile menu */
+#menu {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#menu li {
+  margin-right: 20px;
+}
+
+#menu a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+/* Mobile menu toggle */
+#menu-toggle {
+  display: none; /* Hide the toggle by default */
+  cursor: pointer;
+  flex-direction: column;
+  gap: 5px;
+  position: absolute; /* Position the toggle on the left */
+  left: 15px; /* Adjust this value to move the toggle more to the left */
+  top: 20px; /* Adjust the top value if needed */
+}
+
+/* Style for the hamburger icon (three lines) */
+#menu-toggle span {
+  display: block;
+  width: 30px;
+  height: 4px;
+  background-color: #ffffff;
+}
+
+/* Show the toggle icon only on mobile */
+@media (max-width: 720px) {
+  #menu {
+    display: none; /* Hide the menu on mobile by default */
+    flex-direction: column;
+    width: 100%;
+    text-align: left; /* Align the menu to the left */
+    background-color: #333;
+    padding: 20px;
+    position: absolute;
+    top: 60px; /* Position the menu below the navbar */
+    left: 0;
+  }
+
+  #menu-toggle {
+    display: flex; /* Show the toggle icon on mobile */
+  }
+
+  #menu.show {
+    display: flex; /* Display the menu when it's toggled */
+  }
+
+  #menu li {
+    margin-bottom: 10px;
+  }
+
+  /* Optional: Adjust the menu links' font size and padding */
+  #menu a {
+    font-size: 18px;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+  }
+}
+
+
 @media screen and (max-width: 720px), (max-height: 1280) {
   .logo ul li a {
     position: relative;
