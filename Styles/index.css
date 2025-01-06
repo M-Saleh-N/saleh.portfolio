@@ -49,6 +49,12 @@ body {
   font-size: 16px;
 }
 
+.menu-toggle {
+  display: none;
+  cursor: pointer;
+  flex-direction: column;
+}
+
 .away2 {
   display: flex;
   justify-content: space-between;
