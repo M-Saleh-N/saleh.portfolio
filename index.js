@@ -2,7 +2,7 @@ function toggleMenu() {
     const menu = document.getElementById("menu");
     menu.classList.toggle("show");
 }
-
+ 
 function openModal(title, description, link) {
     const modal = document.getElementById("modal");
     const modalTitle = document.getElementById("modal-title");
