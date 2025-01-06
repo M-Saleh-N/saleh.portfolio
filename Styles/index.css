@@ -769,7 +769,7 @@ body {
   transform: scale(1.2);
 }
 
-.contact-form {
+#contact-form {
   width: 600px;
   height: 611px;
   margin-top: 54px;
